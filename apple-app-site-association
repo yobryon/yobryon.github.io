@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "33FJFP2WU7.com.chromehearts.dynamics.commerce.pos" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               }
+             ]
+           }
+       ]
+   }
+}
